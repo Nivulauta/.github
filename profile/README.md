@@ -10,7 +10,7 @@ Welcome to Nivulauta's GitHub organization.
 
 ## Projects
 
-- [n-agent](https://github.com/Nivulauta/n-agent) - A production-ready, project-scoped design platform built on AWS that combines Amazon Bedrock AgentCore with semantic document search and A2A agentic tool use. The system provides real-time chat responses grounded in organizational knowledge from multi-modal resources, extends capabilities with MCP (Model Context Protocol) tool integration for document search and external services like web search, and maintains long-term memory across conversations to deliver personalized, context-aware interactions.
+- [n-agent](https://github.com/Nivulauta/n-agent) - A production-ready, project-scoped design platform built on AWS that combines Amazon Bedrock AgentCore with semantic search and A2A agentic tool use. The system provides real-time chat responses grounded in organizational knowledge from multi-modal resources, extends capabilities with MCP (Model Context Protocol) tool integration for document search and external services like web search, and maintains long-term memory across conversations to deliver personalized, context-aware interactions.
 
 
 ## Contact
