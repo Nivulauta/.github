@@ -10,7 +10,7 @@ Welcome to Nivulauta's GitHub organization.
 
 ## Projects
 
-<a href="[progettai](https://github.com/Nivulauta/progettai)" 
+<a href="https://github.com/Nivulauta/progettai" 
 target="_parent">
 <img src="https://github.com/Nivulauta/progettai/blob/main/frontend/public/favicon-96x96.png"/></a>
 - [progettai](https://github.com/Nivulauta/progettai) - ProgettAI is a scalable, enterprise-grade B2B and B2C platform that revolutionizes how consumers and enterprises discover and purchase products in the age of agentic AI. Built natively on three foundational open standards—MCP (Model Context Protocol), A2A (Agent-to-Agent), and UCP (Universal Commerce Protocol) — ProgettAI transforms conversational design intent into photorealistic search queries, vectorized product matching, and seamless checkout—all in a single agentic loop.
